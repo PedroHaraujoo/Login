@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+   }
+
+   body {
+    margin-top: 25vh;
+   }
+   
+   
+   .Redefinir {
+    width: 350px;
+    padding: 50px;
+    background-color: #1e920f;
+    color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 4px;
+   }
+   
+   .Redefinir h2 {
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   
+   .Redefinir input[type="text"], .Redefinir input[type="email"], .Redefinir input[type="password"], .Redefinir input[type="CPF"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #89cc8f;
+   }
+   
+   .Redefinir input[type="Enviar"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #241a55;
+    color: white;
+    border: none;
+    border-radius: 4px;
+   }
+   
+   .Redefinir input[type="Enviar"]:hover {
+    cursor: pointer;
+    background-color: #1a113a;
+   }
+   
+   .redefinir1 {
+    font-size: 30px;
+    padding: 0 2em 0 2em;
+    margin-top: 1em;
+    display: inline-block;
+    background-color: #338040;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    
+   }
