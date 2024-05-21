@@ -59,6 +59,11 @@
     transition: background-color 0.3s ease;
     margin-left: 0.5em;
    }
+   .Enviar:hover{
+    border-radius: 10px;
+    transition: 5ms;
+   }
    .c1 {
     margin-left: 5em;
    }
+   
